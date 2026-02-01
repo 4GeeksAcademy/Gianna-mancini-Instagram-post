@@ -1,0 +1,69 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(228, 223, 223);
+    margin: 0;
+    font-family: 'Lato';
+}
+
+header {
+    background-color: white;
+    padding: 10px;
+    
+}
+
+header h1 {
+    margin: 0;
+}
+
+.post {
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    margin-top: 40px;
+    
+}
+
+.Photo1 {
+    background-color: rgb(77, 77, 190);
+    width: 100%;
+    height: 300px;
+}
+
+img {
+    height: 300px;
+    width: 100%;
+}
+
+.Description1 p {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+
+.Description1 {
+    border-top: 1px solid lightgray;
+}
+
+.post1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    height: 30px;
+    border-bottom: 1px solid lightgray;
+}
+.post1 span {
+    color: gray
+}
+
+.separador {
+    background-color: rgb(228, 223, 223);
+    height: 40px;
+}
+
+.line {
+    border-bottom: solid 1px gray;
+}
